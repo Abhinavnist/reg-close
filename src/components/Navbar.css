@@ -1,0 +1,24 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    width: 100vw;
+    height: 80px;
+    padding-left: 20px;
+    background: rgba(0, 122, 255, 0.25);
+  }
+  .club-txt {
+    color: #007aff;
+    font-family: "Jura";
+    font-size: 45px;
+    font-weight: 600;
+    margin-top: -5px;
+    margin-left: 30px;
+  }
+  .active {
+    background: #007aff;
+  }
+  img{
+    height: 50px;
+    width: 50px;
+  }
+  
